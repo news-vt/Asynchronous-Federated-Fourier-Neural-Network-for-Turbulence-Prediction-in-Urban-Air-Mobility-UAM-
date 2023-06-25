@@ -1,4 +1,4 @@
-# Asynchronous-Federated-Fourier-Neural-Network-for-Turbulence-Prediction-in-Urban-Air-Mobility-UAM
+# Asynchronous-Federated-Fourier-Neural-Network-for-Turbulence-Prediction-in-Urban-Air-Mobility-UAM-
 
 This repository contains the code for the paper:
 - Wireless-Enabled Asynchronous Federated Fourier Neural Network for Turbulence Prediction in Urban Air Mobility (UAM) (https://ieeexplore.ieee.org/abstract/document/10077517)
